@@ -2,6 +2,7 @@ from utils import *
 from cell import Cell
 from maze import Maze
 
+
 def main():
     num_rows = 10
     num_cols = 10
